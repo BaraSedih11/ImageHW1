@@ -1,6 +1,6 @@
 ![Image_Processing_with_Gamma_Correction_!](https://github.com/BaraSedih11/ImageHW1/assets/98843912/7417fe86-11a0-46b9-866e-7172ba99febb)
 
-https://img.shields.io/github/last-commit/BaraSedih11/ImageHW1/main
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BaraSedih11/ImageHW1/main)
 
 ## Overview
 This project demonstrates basic image processing techniques, focusing on gamma correction. The script utilizes the OpenCV library to read an image, convert it to grayscale, and apply gamma correction. Gamma correction is a non-linear adjustment to the intensity values of an image, often used to correct for the nonlinear relationship between pixel intensity and perceived brightness.
