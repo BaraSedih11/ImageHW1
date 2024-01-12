@@ -1,5 +1,8 @@
 Image Processing HW1 using cv2 library
 
+
+
+
 Reading the input image:
 ![image](https://github.com/BaraSedih11/ImageHW1/assets/98843912/72b409f0-b1b1-4156-af29-ec19c54058ed)
 
