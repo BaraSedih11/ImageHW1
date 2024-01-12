@@ -16,10 +16,10 @@ pip install opencv-python numpy matplotlib
 ````
 
 ## Usage
-1- Clone the repository to your local machine.
-2- Make sure you have the required dependencies installed.
-3- Replace the image path in the script with the path to your desired image.
-4- Run the script using a Python interpreter:
+- Clone the repository to your local machine.
+- Make sure you have the required dependencies installed.
+- Replace the image path in the script with the path to your desired image.
+- Run the script using a Python interpreter:
 
 ```bash
 python image_processing.py
