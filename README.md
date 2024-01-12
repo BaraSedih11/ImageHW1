@@ -1,4 +1,5 @@
-# Image Processing with Gamma Correction
+![Image_Processing_1](https://github.com/BaraSedih11/ImageHW1/assets/98843912/fad30ecb-b2d8-4fdf-8023-4b485765a40b)
+
 
 ## Overview
 This project demonstrates basic image processing techniques, focusing on gamma correction. The script utilizes the OpenCV library to read an image, convert it to grayscale, and apply gamma correction. Gamma correction is a non-linear adjustment to the intensity values of an image, often used to correct for the nonlinear relationship between pixel intensity and perceived brightness.
