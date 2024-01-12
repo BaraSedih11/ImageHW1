@@ -19,11 +19,8 @@ Install the required libraries using the following command:
 ![image](https://github.com/BaraSedih11/ImageHW1/assets/98843912/8f7212b4-0e60-4e6c-90ad-0bd4196217f6)
 
 ## Usage
-<iframe
-  src="https://carbon.now.sh/embed?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=python&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=56px&ph=56px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=import%2520cv2%2520as%2520cv%250Aimport%2520numpy%2520as%2520np%250Aimport%2520matplotlib.pyplot%2520as%2520plt%250Aimport%2520time"
-  style="width: 1024px; height: 473px; border:0; transform: scale(1); overflow:hidden;"
-  sandbox="allow-scripts allow-same-origin">
-</iframe>
+![image](https://github.com/BaraSedih11/ImageHW1/assets/98843912/63386122-f099-4354-8037-e61c31cb3682)
+
 
 ```bash
 python image_processing.py
