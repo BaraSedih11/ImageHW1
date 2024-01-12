@@ -25,9 +25,8 @@ Install the required libraries using the following command:
 
 
 
-```bash
-python image_processing.py
-```
+![carbon (3)](https://github.com/BaraSedih11/ImageHW1/assets/98843912/cf8f11b6-6927-4acd-9424-2b43f1792747)
+
 
 ## Functionality
 
