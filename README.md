@@ -52,3 +52,5 @@ Prints the execution times for gamma correction using a look-up table and manual
 **Histograms of Processed Images**
 Displays histograms of the original image and the gamma-corrected images for visual comparison.
 
+## Documentation
+https://github.com/BaraSedih11/ImageHW1/wiki
