@@ -1,4 +1,4 @@
-## ![Image_Processing_1](https://github.com/BaraSedih11/ImageHW1/assets/98843912/fad30ecb-b2d8-4fdf-8023-4b485765a40b)
+![Uploading 💻Image_Processing_with_Gamma_Correction_!.png…]()
 
 
 ## Overview
