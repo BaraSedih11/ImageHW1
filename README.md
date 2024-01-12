@@ -16,7 +16,8 @@ This project demonstrates basic image processing techniques, focusing on gamma c
 
 Install the required libraries using the following command:
 
-![image](https://github.com/BaraSedih11/ImageHW1/assets/98843912/8f7212b4-0e60-4e6c-90ad-0bd4196217f6)
+![carbon (2)](https://github.com/BaraSedih11/ImageHW1/assets/98843912/f67d59d0-a313-42ba-b093-85d1a20f3dcb)
+
 
 ## Usage
 ![carbon (1)](https://github.com/BaraSedih11/ImageHW1/assets/98843912/73f57c77-97fc-4661-8032-4a5239cb9770)
