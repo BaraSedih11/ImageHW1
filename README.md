@@ -1,4 +1,4 @@
-![Uploading Image_Processing_with_Gamma_Correction_! (1).png…]()
+![Image_Processing_with_Gamma_Correction_!](https://github.com/BaraSedih11/ImageHW1/assets/98843912/7417fe86-11a0-46b9-866e-7172ba99febb)
 
 
 ## Overview
