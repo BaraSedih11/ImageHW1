@@ -19,7 +19,8 @@ Install the required libraries using the following command:
 ![image](https://github.com/BaraSedih11/ImageHW1/assets/98843912/8f7212b4-0e60-4e6c-90ad-0bd4196217f6)
 
 ## Usage
-![image](https://github.com/BaraSedih11/ImageHW1/assets/98843912/63386122-f099-4354-8037-e61c31cb3682)
+![carbon](https://github.com/BaraSedih11/ImageHW1/assets/98843912/f7454778-be77-4e8f-b7cc-1e696ab327ad)
+
 
 
 ```bash
