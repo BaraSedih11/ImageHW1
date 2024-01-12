@@ -1,6 +1,7 @@
 ![Image_Processing_with_Gamma_Correction_!](https://github.com/BaraSedih11/ImageHW1/assets/98843912/7417fe86-11a0-46b9-866e-7172ba99febb)
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BaraSedih11/ImageHW1/main) ![GitHub repo size](https://img.shields.io/github/repo-size/BaraSedih11/ImageHW1)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BaraSedih11/ImageHW1/main) ![GitHub repo size](https://img.shields.io/github/repo-size/BaraSedih11/ImageHW1) ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/BaraSedih11/ImageHW1)
+
 
 
 ## Overview
