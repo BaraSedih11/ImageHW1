@@ -16,10 +16,12 @@ pip install opencv-python numpy matplotlib
 ````
 
 ## Usage
-- Clone the repository to your local machine.
-- Make sure you have the required dependencies installed.
-- Replace the image path in the script with the path to your desired image.
-- Run the script using a Python interpreter:
+```
+import cv2 as cv
+import numpy as np
+import matplotlib.pyplot as plt
+import time
+```
 
 ```bash
 python image_processing.py
